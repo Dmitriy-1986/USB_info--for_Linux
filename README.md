@@ -1,5 +1,6 @@
 # USB_info--for_Linux
-Получаем информацию о подключенном USB - Flash накопителе
+Получаем информацию о подключенном USB - Flash накопителе <br>
+Для Linux
 ```python
 import subprocess
 
